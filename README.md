@@ -109,8 +109,6 @@ client2,password2
 ## Documentation
 
 - [API Documentation](docs/API.md)
-- [Development Guide](docs/DEVELOPMENT.md)
-- [Change Log](CHANGELOG.md)
 
 ## Testing
 
@@ -126,27 +124,3 @@ pytest tests/
 3. Make your changes
 4. Add tests for new functionality
 5. Submit a pull request
-
-See [Development Guide](docs/DEVELOPMENT.md) for detailed guidelines.
-
-## Support
-
-For support:
-1. Check the documentation
-2. Search existing issues
-3. Create a new issue
-4. Contact the development team
-
-## License
-
-This project is proprietary software. All rights reserved.
-
-## Acknowledgments
-
-- SmartAPI team for the trading API
-- PyQt team for the UI framework
-- Contributors and testers
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for version history. 
